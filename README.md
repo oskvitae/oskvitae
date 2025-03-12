@@ -5,7 +5,7 @@
   My deep fascination with technology has led me to take the leap from promoting products to building them.
 </p>
 
-<h3>What I'm Looking For</h3>
+<h3>Current Goal</h3>
 <p>
   I'm seeking a software development role at a company that tackles meaningful problems and improves lives at scale.
   Being largely self-taught, I deeply value the opportunity to collaborate with and learn from passionate experts in the field. Joining a team of skilled professionals would be both an honor and a chance for continuous growth.
